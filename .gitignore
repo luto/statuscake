@@ -3,6 +3,7 @@
 *.egg
 *.egg-info
 .coverage
+.pytest_cache/
 pid.egg-info/
 build/
 dist/
